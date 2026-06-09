@@ -216,7 +216,3 @@ Login and Signup functionality may not work as expected because the deployed bac
 | `npm run build` | Frontend | Production build     |
 | `npm start`     | Backend  | Production server    |
 | `npm run seed`  | Backend  | Create default admin |
-
-## License
-
-MIT
