@@ -194,15 +194,15 @@ Create additional users via Signup (employee) or Admin → Users page (any role)
 
 **API BASE URL (TEST USING POSTMAN):**
 
-https://attendanceapp-backend1-ptv8.onrender.com
+==> https://attendanceapp-backend1-ptv8.onrender.com
 
 ### **🌐 FRONTEND LIVE URL**
 
 **APPLICATION URL:**
 
-https://attendance-app-frontend1.vercel.app/
+==> https://attendance-app-frontend1.vercel.app/
 
-### **⚠️ CURRENT STATUS**
+### **⚠️ CURRENT STATUS **
 
 Login and Signup functionality may not work as expected because the deployed backend is currently experiencing a **MongoDB Atlas connection establishment issue**. The frontend deployment is accessible, but authentication-related features are affected until the database connection is restored.
 
