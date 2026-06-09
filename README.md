@@ -119,7 +119,7 @@ npm run dev     # http://localhost:5000
 env
 
 PORT=5000
-MONGO_URL=mongodb://127.0.0.1:27017/attendance-management
+MONGO_URL=mongodb://127.0.0.1:27017/attendance
 JWT_SECRET=your_super_secret_jwt_key
 CLIENT_URL=http://localhost:5173
 ```
@@ -187,6 +187,10 @@ Create additional users via Signup (employee) or Admin → Users page (any role)
 2. Build: `npm run build`
 3. Output: `dist`
 4. Env: `VITE_API_URL=https://your-api.onrender.com/api`
+
+backend live url check the apis in postman - https://attendanceapp-backend1-ptv8.onrender.com
+
+**\*** I AM PHASING THE ISSUE IN MONGO DB ATLAS MY FREE CREDITS IS EXPIRED AND MONGODB SERVER ALSO HAVE SOME ISSUES THAT IS WHY WHEN I LIVE FRONTEND AS WELL THEN I AM PHASING THE ISSUE THAT IS WHY I MENTIONED LOCALHOST PORTS \*\*\*\*
 
 ## Scripts
 
